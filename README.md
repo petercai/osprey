@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center">A fast, cross-platform desktop GUI for searching and replacing text across large codebases.</p>
+<p align="center">A fast, powerful, cross-platform desktop GUI for searching and replacing text across large codebases.</p>
 
 <p align="center">
   <a href="https://github.com/petercai/osprey/releases/latest"><img src="https://img.shields.io/github/v/release/petercai/osprey?label=release&sort=semver" alt="Latest Osprey release on GitHub"></a>
