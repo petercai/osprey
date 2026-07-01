@@ -1,0 +1,17 @@
+[project]
+name = "Osprey"
+version = "1.0.0"
+description = "Find, Replace, Everywhere - a cross-platform GUI text search and replace tool "
+readme = "README.md"
+authors = [
+    { name = "Peter Cai", email = "petercaica@hotmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "PySide6>=6.7",
+    "platformdirs>=4.0",
+]
+
+[project.scripts]
+osprey = "osprey:main"
+
