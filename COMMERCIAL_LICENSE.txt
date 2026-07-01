@@ -1,0 +1,52 @@
+Commercial License Agreement
+
+This Commercial License Agreement ("Agreement") is entered into between
+petercai ("Licensor") and the Licensee.
+
+1. Grant of License
+
+Subject to payment of applicable fees, Licensor grants Licensee a
+non-exclusive, non-transferable, non-sublicensable license to use the
+Software for commercial purposes.
+
+2. Permitted Use
+
+Licensee may:
+
+- Use the software in a commercial environment
+- Integrate the software into internal systems
+- Use the software in production
+
+3. Restrictions
+
+Licensee may not:
+
+- Resell or redistribute the software
+- Offer the software as a standalone competing product
+- Remove copyright notices
+
+4. Ownership
+
+The Software remains the property of Licensor.
+No ownership is transferred.
+
+5. Term
+
+This license is:
+- Subscription-based (valid during subscription period)
+
+6. Support and Updates
+
+Support and updates are provided according to the purchased plan.
+
+7. Termination
+
+This Agreement terminates if Licensee violates any terms.
+
+8. Limitation of Liability
+
+Licensor shall not be liable for any damages arising from use of the software.
+
+9. Governing Law
+
+This Agreement shall be governed by the laws of Ontario, Canada.
