@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/petercai/osprey/releases/latest"><img src="https://img.shields.io/github/v/release/petercai/osprey?label=release&sort=semver" alt="Latest Osprey release on GitHub"></a>
-  <a href="https://github.com/petercai/osprey/actions/workflows/build-nuitka.yml"><img src="https://img.shields.io/github/actions/workflow/status/petercai/osprey/build-nuitka.yml?branch=main&label=build" alt="Osprey Nuitka build status"></a>
   <img src="https://img.shields.io/badge/python-3.12%2B-blue" alt="Requires Python 3.12 or newer">
   <img src="https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey" alt="Supported platforms: Windows, macOS, Linux">
   <img src="https://img.shields.io/badge/license-dual--license-orange" alt="Dual license: free for non-commercial use, paid license for commercial use">
